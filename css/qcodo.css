@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'OpenSansLight';
+    src: url('../fonts/OpenSans-Light-webfont.eot');
+    src: url('../fonts/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/OpenSans-Light-webfont.woff') format('woff'),
+         url('../fonts/OpenSans-Light-webfont.ttf') format('truetype'),
+         url('../fonts/OpenSans-Light-webfont.svg#OpenSansLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family:"DOCK11 Heavy";
+  src:url("../fonts/_fee_heavy_dock11.eot?") 
+  format("eot"),url("../fonts/_fee_heavy_dock11.woff") 
+  format("woff"),url("../fonts/_fee_heavy_dock11.ttf") 
+  format("truetype"),url("../fonts/_fee_heavy_dock11.svg#DOCK11-Heavy") 
+  format("svg");font-weight:normal;font-style:normal;
+}
+
+@font-face {
+  font-family:"Oswald";
+  src:url("../fonts/Oswald.eot?") 
+  format("eot"),url("../fonts/Oswald.woff")
+  format("woff"),url("../fonts/Oswald.ttf") 
+  format("truetype"),url("../fonts/Oswald.svg#Oswald")
+  format("svg");font-weight:normal;font-style:normal;
+}
+
+body{background:url(../img/furley_bg.png);}a.back-to-top{position:fixed;bottom:0;right:0;z-index:1000; background: rgb(0, 0, 0); background-color:rgba(0, 0, 0, .2);color:white;padding:8px;text-shadow:none;}h3{color:#E44545;font-family:"Oswald", sans-serif;font-size:30px;font-weight:700;padding:20px 0 20px;}.home,.contact,.about{padding-top:110px;}.home{padding-top:140px;}.navbar .brand h1{background:url(../img/q.png) no-repeat;text-align:right;color:#454545;min-height:90px;min-width:200px;padding-left:20px;line-height:85px;font-size:45px;position:relative;}.navbar .brand h1 span{position:absolute;top:25px;left:130px;font-size:12px;}.nav li{margin-left:18px;margin-top:10px;}.nav li .btn{background-image:none;border-color:#CCC;}.navbar .nav > li > a:hover{color:#454545;}.navbar-inner{background: url(../img/bg.png) #fff repeat-x bottom;}.hero-unit{background-image:url(../img/bg-circle.png);}.hero-unit h1{padding:0px 0px 10px 0px;}.navbar .nav > li > a{text-shadow:none;}.home h2{padding:0px 0px 10px 30px;background:url(../img/q.png) no-repeat;min-height:20px;line-height:1.2em;}.home h2.reliable{background:url(../icons/glyphicons_023_cogwheels.png) no-repeat;}.home h2.agile{background:url(../icons/glyphicons_119_adjust.png) no-repeat;}.home h2.intime{background:url(../icons/glyphicons_055_stopwatch.png) no-repeat;}.home .intro p{font-size:1.1em;line-height:1.4em;}.about p,.contact p{font-size:1.2em;line-height:1.5em;}.contact-form{margin:20px 0px 40px 0px;color:#454545;background:none;font-size:1.6em;}.contact-form input{width:100%;padding:20px;font-size:14px;}.full{width:100% !important;}.img-hide{margin:67px 0 0 0;}@media (max-width: 979px){.home,.contact,.about{padding-top:0px;}.home{padding-top:0px;}.img-hide{margin:67px 0 0 0;}.navbar .btn{display:block;}}@media (max-width: 767px){.img-hide{display:none;}.hero-unit{padding:20px;}}
